@@ -323,10 +323,8 @@ Now爆谷,http://205.185.123.236:8899/1/baogutai/baogu.m3u8
 无线华丽,http://php.jdshipin.com:8880/TVOD/iptv.php?id=huali
 新视觉HD,http://120.76.248.139/live/bfgd/4200000249.m3u8
 凤凰电影,http://home.js001.com:7777/stream/channelid/884059847?profile=pass
-美亚电影台(TW),https://tv.doube.eu.org/tv?pid=1
 
 翡翠台(字幕版),https://www.mytvsuper.us.kg/tvb/feicui/feicui.m3u8
-Astro AEC,http://aktv.top/AKTV/live/aktv3/astroaec/AKTV.m3u8
 Astro千禧经典台,https://www.mytvsuper.us.kg/astro/qianxi/qianxi.m3u8
 Astro天映频道,https://www.mytvsuper.us.kg/astro/tianying/tianying.m3u8
 星空卫视,http://wouu.net:9977/udp/239.93.0.156:2193
